@@ -1,0 +1,209 @@
+{
+  "categories": [
+    { "id": "all", "name": "All Work", "count": 24 },
+    { "id": "wedding", "name": "Wedding", "count": 8 },
+    { "id": "portrait", "name": "Portrait", "count": 7 },
+    { "id": "commercial", "name": "Commercial", "count": 5 },
+    { "id": "editorial", "name": "Editorial", "count": 4 }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Eternal Vows",
+      "category": "wedding",
+      "categoryName": "Wedding",
+      "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+        "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200&q=80",
+        "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=1200&q=80"
+      ],
+      "client": "Sarah & Michael",
+      "location": "Tuscany, Italy",
+      "date": "2024-06-15",
+      "description": "A romantic destination wedding in the heart of Tuscany, capturing the essence of Italian elegance and timeless love.",
+      "featured": true,
+      "beforeAfter": {
+        "before": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
+        "after": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Urban Essence",
+      "category": "portrait",
+      "categoryName": "Portrait",
+      "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=1200&q=80",
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200&q=80"
+      ],
+      "client": "Emma Richardson",
+      "location": "New York City",
+      "date": "2024-05-20",
+      "description": "Urban portrait session exploring the interplay of natural light and city architecture.",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Luxury Brand Campaign",
+      "category": "commercial",
+      "categoryName": "Commercial",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&q=80",
+        "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=1200&q=80"
+      ],
+      "client": "Maison Verve",
+      "location": "Paris, France",
+      "date": "2024-04-10",
+      "description": "High-end fashion campaign showcasing the latest collection with dramatic lighting.",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "Coastal Dreams",
+      "category": "wedding",
+      "categoryName": "Wedding",
+      "image": "https://images.unsplash.com/photo-1510076857177-7470076d4098?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1510076857177-7470076d4098?w=1200&q=80",
+        "https://images.unsplash.com/photo-1460978812857-470ed1c77af0?w=1200&q=80"
+      ],
+      "client": "Jessica & David",
+      "location": "Malibu, California",
+      "date": "2024-03-22",
+      "description": "Beachfront ceremony at golden hour with stunning Pacific Ocean backdrop.",
+      "featured": false
+    },
+    {
+      "id": "5",
+      "title": "Executive Presence",
+      "category": "portrait",
+      "categoryName": "Portrait",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
+      ],
+      "client": "James Morrison",
+      "location": "London, UK",
+      "date": "2024-02-15",
+      "description": "Corporate headshots with a modern, approachable aesthetic for C-suite executives.",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "title": "Product Elegance",
+      "category": "commercial",
+      "categoryName": "Commercial",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1200&q=80",
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80"
+      ],
+      "client": "TechNova",
+      "location": "Studio",
+      "date": "2024-01-30",
+      "description": "Minimalist product photography highlighting premium tech accessories.",
+      "featured": true
+    },
+    {
+      "id": "7",
+      "title": "Vogue Editorial",
+      "category": "editorial",
+      "categoryName": "Editorial",
+      "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1200&q=80",
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=1200&q=80"
+      ],
+      "client": "Vogue Magazine",
+      "location": "Milan, Italy",
+      "date": "2023-12-10",
+      "description": "Fashion editorial featuring avant-garde styling and dramatic compositions.",
+      "featured": true
+    },
+    {
+      "id": "8",
+      "title": "Garden Romance",
+      "category": "wedding",
+      "categoryName": "Wedding",
+      "image": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=1200&q=80"
+      ],
+      "client": "Amanda & Robert",
+      "location": "Cotswolds, UK",
+      "date": "2023-11-05",
+      "description": "Intimate garden wedding with vintage charm and natural beauty.",
+      "featured": false
+    },
+    {
+      "id": "9",
+      "title": "Creative Soul",
+      "category": "portrait",
+      "categoryName": "Portrait",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&q=80"
+      ],
+      "client": "Marcus Chen",
+      "location": "Berlin, Germany",
+      "date": "2023-10-18",
+      "description": "Artistic portrait series exploring identity and expression.",
+      "featured": false
+    },
+    {
+      "id": "10",
+      "title": "Culinary Art",
+      "category": "commercial",
+      "categoryName": "Commercial",
+      "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=1200&q=80",
+        "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80"
+      ],
+      "client": "Le Petit Bistro",
+      "location": "Lyon, France",
+      "date": "2023-09-25",
+      "description": "Mouth-watering food photography for Michelin-starred restaurant.",
+      "featured": true
+    },
+    {
+      "id": "11",
+      "title": "Harper's Bazaar",
+      "category": "editorial",
+      "categoryName": "Editorial",
+      "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=1200&q=80"
+      ],
+      "client": "Harper's Bazaar",
+      "location": "New York",
+      "date": "2023-08-12",
+      "description": "High-fashion editorial with bold colors and striking poses.",
+      "featured": false
+    },
+    {
+      "id": "12",
+      "title": "Mountain Love",
+      "category": "wedding",
+      "categoryName": "Wedding",
+      "image": "https://images.unsplash.com/photo-1460978812857-470ed1c77af0?w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1460978812857-470ed1c77af0?w=1200&q=80"
+      ],
+      "client": "Lisa & Thomas",
+      "location": "Swiss Alps",
+      "date": "2023-07-30",
+      "description": "Breathtaking mountain elopement with stunning alpine views.",
+      "featured": false
+    }
+  ],
+  "stats": {
+    "yearsExperience": 12,
+    "projectsCompleted": 487,
+    "happyClients": 356,
+    "awardsWon": 23
+  }
+}

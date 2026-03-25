@@ -1,0 +1,74 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Sarah & Michael Thompson",
+      "role": "Wedding Clients",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+      "content": "Working with Lumiere was an absolute dream. They captured every moment of our wedding day with such artistry and emotion. Looking at our photos still brings tears to our eyes. Truly the best investment we made for our special day.",
+      "rating": 5,
+      "project": "Eternal Vows - Tuscany Wedding",
+      "date": "2024-06-20"
+    },
+    {
+      "id": "2",
+      "name": "Emma Richardson",
+      "role": "Fashion Model",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
+      "content": "I've worked with many photographers throughout my career, but Lumiere stands out for their incredible eye for detail and ability to make you feel completely at ease. The results were absolutely stunning.",
+      "rating": 5,
+      "project": "Urban Essence Portrait Series",
+      "date": "2024-05-25"
+    },
+    {
+      "id": "3",
+      "name": "Antoine Dubois",
+      "role": "Creative Director, Maison Verve",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+      "content": "Lumiere brought our vision to life in ways we couldn't have imagined. Their understanding of brand aesthetics and ability to create compelling visual narratives is unmatched. Our campaign exceeded all expectations.",
+      "rating": 5,
+      "project": "Luxury Brand Campaign",
+      "date": "2024-04-15"
+    },
+    {
+      "id": "4",
+      "name": "Jessica Chen",
+      "role": "Bride",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80",
+      "content": "From our first consultation to receiving our final gallery, the experience was flawless. Lumiere has this magical ability to capture authentic emotions while making everyone look their absolute best.",
+      "rating": 5,
+      "project": "Coastal Dreams Wedding",
+      "date": "2024-03-28"
+    },
+    {
+      "id": "5",
+      "name": "James Morrison",
+      "role": "CEO, TechVentures",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+      "content": "Professional, efficient, and incredibly talented. Lumiere delivered executive portraits that perfectly balanced authority with approachability. Highly recommend for any corporate photography needs.",
+      "rating": 5,
+      "project": "Executive Portrait Session",
+      "date": "2024-02-20"
+    },
+    {
+      "id": "6",
+      "name": "Isabella Romano",
+      "role": "Editor-in-Chief, Vogue Italia",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80",
+      "content": "Lumiere's work is nothing short of extraordinary. Their editorial eye and technical mastery resulted in one of our most celebrated issues. A true artist behind the lens.",
+      "rating": 5,
+      "project": "Vogue Editorial Feature",
+      "date": "2023-12-15"
+    }
+  ],
+  "clients": [
+    { "name": "Vogue", "logo": "Vogue" },
+    { "name": "Harper's Bazaar", "logo": "Harper's" },
+    { "name": "Elle", "logo": "Elle" },
+    { "name": "GQ", "logo": "GQ" },
+    { "name": "Vanity Fair", "logo": "Vanity" },
+    { "name": "Forbes", "logo": "Forbes" },
+    { "name": "Maison Verve", "logo": "Maison" },
+    { "name": "TechNova", "logo": "TechNova" }
+  ]
+}
